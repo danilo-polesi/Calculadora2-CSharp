@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGcmSqHxD1NvvfEO/Oxn44urV/UFo0yLau/77YEQERJi0BfLlQn4fgMm4iewawg/mo8c7g68oppH93aqhPQN0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
